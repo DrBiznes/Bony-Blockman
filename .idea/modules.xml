@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BonyBlockman.client.iml" filepath="$PROJECT_DIR$/.idea/modules/BonyBlockman.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BonyBlockman.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BonyBlockman.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BonyBlockman.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BonyBlockman.test.iml" />
+    </modules>
+  </component>
+</project>

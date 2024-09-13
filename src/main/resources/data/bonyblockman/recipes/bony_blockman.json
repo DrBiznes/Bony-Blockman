@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xzx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:bone_block"
+    },
+    "z": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "bonyblockman:bony_blockman",
+    "count": 1
+  }
+}
